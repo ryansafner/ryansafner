@@ -2,7 +2,7 @@
 
 - 🎓 I am Assistant Professor of Economics at Hood College
 - 💻 Since Fall 2019, I have made course websites for each of my [classes](https://ryansafner.com/#teaching), which constitute the bulk of my repositories here
-- 🧑🏻‍🔬 My research focuses on the political economy of innovation, intellectual property, and economic development. I keep my paper projects as private repositories here, made public after publication.
+- 🧑🏻‍🔬 [My research](https://ryansafner.com/#publications_selected) focuses on the political economy of innovation, intellectual property, and economic development. I keep my paper projects as private repositories here, made public after publication.
 - 🧑🏻‍💻 I am a big fan of R, Rmarkdown, and Github for reproducible data science, research, and teaching!
 
 <!--
