@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 - 🎓 I am an Associate Professor of Economics at Hood College
-- 💻 Since Fall 2019, I have made course websites for each of my [classes](https://ryansafner.com/teaching), which constitute the bulk of my repositories here
+- 💻 I make individual website (with R & Quarto) for each of my [courses](https://ryansafner.com/teaching), which constitute the bulk of my repositories here
 - 🧑🏻‍🔬 [My research](https://ryansafner.com/research) focuses on the political economy of innovation, intellectual property, and economic development. I keep my paper projects as private repositories here, made public after publication.
-- 🧑🏻‍💻 I am a big fan of R, Rmarkdown, and Github for reproducible data science, research, and teaching
-- ✍🏻 I very occasionally [blog](https://ryansafner.com/blog) about these things
+- 🧑🏻‍💻 I am a big fan of R, Rmarkdown/Quarto, and Github for reproducible data science, research, and teaching
+- ✍🏻 I very occasionally [blog](https://ryansafner.com/blog) about examples and guides to using these data science tools 
+- 📫 I have a weekly newsletter about innovation and economic theory: [Increasing Returs](https://increasingreturns.substack.com)
+- 🤔 I am experimentally exploring network theory, agent-based modeling, and more computational social science
 
 <!--
 **ryansafner/ryansafner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
