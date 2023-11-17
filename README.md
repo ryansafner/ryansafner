@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 💼 I am an economist at the [U.S. Copyright Office](https://copyright.gov) doing research on the economics of copyright.
+- 💼 I am an economist at the [U.S. Copyright Office](https://copyright.gov) conducting research on the economic implications of copyright issues.
 - 🎓 I consider myself a lifelong economics educator (& student) — previously I was an Associate Professor of Economics at Hood College. The bulk of my repositories here are teaching individual economic concepts, or former courses (all open materials)
 - 👨‍🏫 All of my [courses](https://ryansafner.com/teaching) have individual websites (made with R & Quarto) with open source materials. Use at your pleasure!
 - 🧑🏻‍🔬 [My research](https://ryansafner.com/research) focuses on the political economy of innovation, intellectual property, and economic development. I keep my paper projects as private repositories here, made public after publication.
 - 🧑🏻‍💻 I am an evangelical user of R, Rmarkdown/Quarto, and Github for reproducible data science, research, teaching, and general workflow (90% of my life is spent in R Studio)
 - ✍🏻 I very occasionally [blog](https://ryansafner.com/blog) about examples and guides to using these data science tools 
-- 📫 I have an occasional newsletter about innovation and economic theory: [Increasing Returs](https://increasingreturns.substack.com)
+- 📫 I have an occasional newsletter about innovation and economic theory: [Increasing Returns](https://increasingreturns.substack.com)
 - 🤔 I am experimentally exploring network theory, agent-based modeling, and more computational social science
 
 <!--
